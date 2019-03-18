@@ -1,6 +1,6 @@
 ---
 title: The Three Deaths
-date: "2019-03-18T22:12:03.284Z"
+date: "2019-03-19T22:12:03.284Z"
 ---
 
 This is my first post on my new fake blog! How exciting!
