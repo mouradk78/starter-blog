@@ -12,6 +12,5 @@
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mouradk78/starter-blog.git)
-
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mouradk78/starter-blog)
 <!-- AUTO-GENERATED-CONTENT:END -->
