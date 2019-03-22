@@ -1,7 +1,7 @@
 ---
 title: Habit Building - Draft
 date: "2019-03-20T23:46:37.121Z"
-description: 
+description: A good habit is one that sticks and becomes thoughtless.
 ---
 
 ## Successful Habits
