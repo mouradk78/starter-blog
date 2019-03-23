@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Starter Blog from Gatsby Template
+  My Gatsby Starter Blog
 </h1>
 
 
