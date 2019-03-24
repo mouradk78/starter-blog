@@ -11,6 +11,8 @@ description: Some ideas ofor future blogs and research.
    * Closed loops are designed, wittingly or otherwise, to make failure impossible. It is for this exact reason that they are attractive but that also means that one’s cannot learn from anything.
 * Checklist to a successful business:
    * For a successful business Bet on a contrarian truth whose time has come
-* Document the trend of moving all content assets including blogs and documentation away from Confluence and the such to a reliable and sustainable revisioning system. back to basics, to text and markdown editing. Away from the complexity of heavy clunky desktop software.  
+* Document the trend of moving all content assets including blogs and documentation away from Confluence and the such to a reliable and sustainable revisioning system. back to basics, to text and markdown editing. Away from the complexity of heavy clunky desktop software.
+* The reponsability of being kind as well as right. kids use simplistic language and get ot the point 
+
 
   
