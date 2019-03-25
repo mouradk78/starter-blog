@@ -1,5 +1,5 @@
 ---
-title: Habit Building - Draft
+title: Habit Building
 date: "2019-03-20T23:46:37.121Z"
 description: A good habit is one that sticks and becomes thoughtless.
 ---
