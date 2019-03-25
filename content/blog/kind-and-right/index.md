@@ -4,14 +4,14 @@ date: "2019-03-24T23:46:37.121Z"
 description: With the power of rightousness comes the responsability of kindness. 
 ---
 
-I have recently read an [!article](https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) about the need for empathy and persuasion in our modern concourse by **Ryan Holiday** author of one of my favourite books *Ego is the Enemy*.
+I recently came across an [!article](https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) about the need for empathy and persuasion in our modern concourse by **Ryan Holiday** author of one of my favourite books *Ego is the Enemy*.
 The author postulates that when intereacting with each other it is not enough to be right, but we also have to be kind. He drew parallels with *Jeff Bezos* story from when he was young boy. Jeff aged nine hearing about how many minutes each cigarette takes from a persons life on the local radio, quickly did the math and went straight to his grandmother who was a chain smoker and said: "Grandma! you lost 9 years of you life.". His grandmother got very upset and started crying. Jeff's grandfather being a chain smoker himself pulled his grandson to the side and told him: " Jeff, one day you'll understand that is a lot harder to be kind than it is to be clever." Wise words indeed.
 
-Upon hearing this, I couldn't help to draw the same parallels with my daily interactions with children. As a parent I often repremind my children about not being kind to each other in particular in the language they use which can be harsh and abrupt. The children often reply that they were in fact "Right!" in their comments, that "such and such was stupid!" :)Such reasoning is correct but it 'captures the conceit of a dangerous assumption we seem to have made as a culture these days' that being right grants us the license to be a total jerk. While this is perhaps true for many adults, I don't think that is necessarly true for children. They bear often no malice in thair comment, some are made in anger yes, but other are innocent interpretation of fact. 
+Upon hearing this, I couldn't help to euqally draw parallels with my daily interactions with children. As a parent I often repremand my children about not being kind to each other in particular with the language they use which can be harsh and abrupt. The children often reply that they were "Right!" in their comments, that such and such was person "did a stupid thing so that makes them stupid!" :) Such reasoning is correct but it 'captures the conceit of a dangerous assumption we seem to have made as a culture these days' that being right grants us the license to be a jerk. While this is perhaps true for many adults, I don't think that is necessarly true for children. They bear often no malice in thair comment, some are made in anger yes, but most are innocent interpretation of fact. 
 
 > You are right but don't need to be mean.
 
-Children might lack empathy but it is an importan lessons we teach them and yet this seems to have been lost for many of us adults out there. There is little space for empathy when only have a 140 characters to express yourself.
+Children might lack empathy but it is an important lessons we teach them and yet this seems to have been lost for many of us adults out there. There is little space for empathy when only have a 140 characters to express yourself.
 
 > The desire for viral sharing heightens the need for aggressive, simplistic arguments. Ryan Holiday
 
