@@ -80,6 +80,6 @@ practiced one kick 10 000 times." - Bruce Lee
 
 ### When automatic: increase the tempo
 
-When you no longeer think of a habit. It is time to promote it, shift up a gear and increase the amoutnyou have already set. If you are doing 10 press ups a day, increase it my 4% the next day and the day after until such time that the habit feels difficult. Step back a couple of gears down and maintain until it feels easy and satisfying.
+When you no longeer think of a habit. It is time to promote it, shift up a gear and increase the amount you have already set. If you are doing 10 press ups a day, increase it my 4% the next day and the day after until such time that the habit feels difficult. Step down a couple of gears and maintain until it feels easy and satisfying.
   
 
