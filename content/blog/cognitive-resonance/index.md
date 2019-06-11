@@ -4,6 +4,13 @@ date: "2019-03-30T23:46:37.121Z"
 description: When we are not as smart as we thing we are.
 ---
 
+
+Cognitive resonance however is only harmful when it stops us from learning and improving our reasonning, so it is more scientific and brutal in it's self assessment. But denial can also be beneficial when it's an act of self preservation, when reason is sacrificed for the sake of mental sanity and decisiveness in action.
+
+I came to the strong believe that those times of self reflection are very precious. Whether in religious prayer or in pursuit of adventure up a mountain, or to enjoy one's solitude, in the quest to challenge our reasoning of the world and ourselves. 
+
+Much like taking the car for the yearly MOT, we need to regularly keep our ego at check, to reserve the time for honest self appraisal where we connect with our inner voice and ensure we do not fall victim on one's treachereus narcissism.
+
 ## Notes
 ```
 Cognitive resonance is the term Featinger coined to describe the inner tension we feel when our beliefs are challenged by evidence.
@@ -51,11 +58,7 @@ When we resist that growth, or feel threatened by new information, we intentiona
 That, for personal and professional development, is the kiss of death.
 
 ```
-Cognitive resonance however is only harmful when it stops us from learning and improving our reasonning, so it is more scientific and brutal in it's self assessment. But denial can also be beneficial when it's an act of self preservation, when reason is sacrificed for the sake of mental sanity and decisiveness in action.
 
-I came to the strong believe that those times of self reflection are very precious. Whether in religious prayer or in pursuit of adventure up a mountain, or to enjoy one's solitude, in the quest to challenge our reasoning of the world and ourselves. 
-
-Much like taking the car for the yearly MOT, we need to regularly keep our ego at check, to reserve the time for honest self appraisal where we connect with our inner voice and ensure we do not fall victim on one's treachereus narcissism.
 
 ```
 
