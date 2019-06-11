@@ -1,5 +1,5 @@
 ---
-title: Draft - Cognitive Resonance
+title: Cognitive Resonance
 date: "2019-03-30T23:46:37.121Z"
 description: When we are not as smart as we thing we are.
 ---
