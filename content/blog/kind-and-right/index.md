@@ -4,7 +4,7 @@ date: "2019-03-24T23:46:37.121Z"
 description: With the power of rightousness comes the responsability of kindness. 
 ---
 
-I recently came across an [!article](https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) about the need for empathy and persuasion in our modern discourse by **Ryan Holiday** author of one of my favourite books *Ego is the Enemy*.
+I recently came across an [article](https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) about the need for empathy and persuasion in our modern discourse by **Ryan Holiday** author of one of my favourite books *Ego is the Enemy*.
 The author postulates that when intereacting with each other it is not enough to be right, but we also have to be kind. He drew parallels with *Jeff Bezos* story from when he was a young boy. 
 
 Jeff aged nine hearing about how many minutes each cigarette takes from a persons life on the local radio, quickly did the math and went straight to his grandmother who was a chain smoker and said: "Grandma! you lost 9 years of you life.". His grandmother got very upset and started crying. Jeff's grandfather being a chain smoker himself pulled his grandson to the side and told him: " Jeff, one day you'll understand that is a lot harder to be kind than it is to be clever." Wise words indeed.
@@ -23,27 +23,27 @@ Instead of the common ground of intellectual reasoning, we have splintterd into 
 
 >Intellectuals are being pushed out of the coversation and they should be worried. As the arguement shifts from intellectual debates where we dispute facts and data, to that of yelling, trolling and callous callouts that are so prevalent in our culture today.
 
-Children have no part in all of this of course, or do they not? In 2014 **Malala Yousafzai** was awarded the Nobel peace prize. Her activist work as a teenager in fighting for young girls education in Pakistan, despite the daily threats to her life by extremists, won her respect and admiration in the world. Nothing can convince us more of the worthiness of a cause than to see a child lending their innocence and even their life for a just cause.
+Children have no part in all of this of course, or do they not? In 2014 **Malala Yousafzai** was awarded the Nobel peace prize. Her activist work as a teenager in fighting for young girls education in Pakistan, despite the daily threats to her life by extremists, won her respect and admiration in the world. Nothing can convince us more of the worthiness of a cause than to see a child sacrificing their innocence and even their life for others.
 
-It was there and then that like many people around the world, I felt shame. Shame that we had lost the morale ground, that we have lost the argument for our humanity by tugging at our people's heart strings.
+It was there and then that like many people around the world, I felt shame. Shame that we had lost the morale ground, that we have lost the argument for our humanity by tugging at our people's heart strings with the words of a 14 year old child.
 
-The same incident followed a year later during the summer flood of refugees into europe, most fleeing the war in Syria and the death camps that the UN refugee camps have become. Death not only for thousands of children in the freezing winters but that of the dignity of their parents selling pens on the side road.
+The same incident followed a year later during the summer flood of refugees into europe. Most fleeing the war in Syria and the death camps that the UN refugee centres had become. Death not only for thousands of children in the freezing turkish winters but that of the dignity of their parents selling pens on the side roads in Lebanon.
 
-That was not enough of course to generate the wave of empathy one would have expected, quite the contrary. Thousands marched to block the refugees while many government facilitated their transit to the next european country, too eager to rid themselves from the consequences of having to deal with their morality or lack of it.
+That was not enough of course to generate the wave of empathy one would have expected, quite the contrary. Thousands marched to block the refugees while many government facilitated their transit to the next european country, too eager to rid themselves from the consequences of having to deal with their morality ... or lack of it.
 
-It was only when the picture of a turkish soldier dragging a drowned baby victim of a calamitous crossing made the [papers](https://www.theguardian.com/world/2015/sep/02/shocking-image-of-drowned-syrian-boy-shows-tragic-plight-of-refugees), that the world was shaken back into reason. For people to empathise with this tragedy they had to listen to the silent cries of a drowned baby. Because babies do not have an agenda, they are not economic migrants, they are the voice of innocence that calls to our basic protective instinct for the vulnerable. We lost the intellectual argument there as well, but gained the empathy battle. 
+It was only when the picture of a turkish soldier dragging a drowned baby, victim of a calamitous crossing, made the [papers](https://www.theguardian.com/world/2015/sep/02/shocking-image-of-drowned-syrian-boy-shows-tragic-plight-of-refugees), that the world was shaken back into reason. For people to empathise with this tragedy they had to listen to the silent cries of a drowned baby. Because babies do not have an agenda, they are not economic migrants, they are the voice of innocence that calls to our basic protective instinct for the vulnerable. We lost the intellectual argument there as well, but gained the empathy battle. 
 
-The climate change activist had to call on the help for another teenager **Greta Thunberg** nominated in 2019 for a Nobel peace prize. During the COP24 conference at Katowise, Greta made a heartfelt speech addressing world leaders.  
+The climate change activist had to call on the help for another teenager **Greta Thunberg** nominated in 2019 for a Nobel peace prize. During the *COP24* conference at Katowise, Greta made a heartfelt speech addressing world leaders.  
 
 > You are not mature enough to tell it like is. Even that burden you leave to us children. But I don’t care about being popular. I care about climate justice and the living planet. Greta Thunberg
 
-A strong statement that still resonates with me. It was not that we were not intelligent, or that we were not kind, but rather that we lacked the maturity to be both. Polical correctness had become a liability in our debate, to the point that we had to resort to the blunt and merciless honesty that only children can affront.
+A strong statement that still resonates with me today. It was not that we were not intelligent, or that we were not kind, but rather that we lacked the maturity to be both. Polical correctness had become a liability in our debate, to the point that we had to resort to the blunt and merciless honesty that only children can affront.
 
-The debate is stil raging. Where humility in intellectect must thrawt the gauche and sick burn of superior rightousness. The intellectuals are losing the war and as **Holiday** puts it:
+The debate is stil raging. Where humility in intellect must thrawt the gauche and sick burn of superior rightousness. The intellectuals are losing the war and as **Holiday** puts it:
 
 > We have made almost zero success. Because you cannot reason people out of positions they didn't reason themselves into.
 
-So must we in this age of new reasoning seek new arguments, a new language. Must we tell people what to think, or how they should feel. Is empathy the answer to our churlish discourse ... perhaps. For as Holiday concludes in his article:
+So must we in this age of new reasoning seek new arguments, a new language? Must we tell people what to think, or how they should feel? Is empathy the answer to our churlish discourse ? ... perhaps. For as Holiday concludes in his article:
 
 > If you can't be kind and can empathise than you are not on the team. TEAM HUMANITY!
 
