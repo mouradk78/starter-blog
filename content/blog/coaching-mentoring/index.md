@@ -18,9 +18,9 @@ He advises to engage people through a few key questions:
   - What give you the most relief?
   - If you say yes to one thing what would you say no to?
 
-He devised a template to collect data on mentoring sessions based on these set of questions. This is meant to engage people on the issues that matter most and to reflect on what they need to do as well as not do so that they are focused on what really matters and brings them most satisfaction. 
+Stainer devised a template to collect data on mentoring sessions based on these set of questions. This is meant to engage people on the issues that matter most and to reflect on what they need to do as well as what they do not need to do so that they are focused on what really matters and brings them most satisfaction. 
 
-Learning what not to do is a key concept in being efficient and productive, as usiness coach **Mickael Porter** said: 
+Learning what not to do is a key concept in being efficient and productive, as business coach **Mickael Porter** said: 
 
 >"The essense of strategy is knowing what not to do"
 
